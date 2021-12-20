@@ -1,0 +1,2 @@
+/etc/haproxy/ssl/Web_FE.pem [ alpn h2,http/1.1] *.hacwa.co.uk,*.wendyrichardson.co.uk
+
